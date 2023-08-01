@@ -1,0 +1,16 @@
+
+#header{
+        color: brown;
+        background-color: blanchedalmond;
+        background-position: center;
+        font-weight: 700;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border-radius: 10px;
+        padding: 2%;
+}
+
+
+.about{
+    background-color: aquamarine;
+    padding: 5px;
+}
